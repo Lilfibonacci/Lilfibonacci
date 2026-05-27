@@ -24,7 +24,7 @@
 
 ###
 
-<p align="center">🔭 👨‍💻 Flutter Developer<br>📚 I'm a passionate developer focused on building mobile applications<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m plan to learn kotlin<br>💬 Ask me about Dart & Flutter</p>
+<p align="center">🔭 👨‍💻 Flutter Developer<br>📚 I'm a passionate developer focused on building mobile applications<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning kotlin<br>💬 Ask me about Dart & Flutter</p>
 
 ###
 
